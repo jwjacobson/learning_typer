@@ -1,5 +1,9 @@
 click==8.1.7
 colorama==0.4.6
+commonmark==0.9.1
+Pygments==2.16.1
+rich==12.6.0
 shellingham==1.4.0
 typer==0.7.0
 typer-cli==0.0.13
+typing_extensions==4.8.0
